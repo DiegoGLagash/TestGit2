@@ -6,8 +6,3 @@ public class MainClass
 		Console.WriteLine(Mensajes.HOLA);
 	}
 }
-
-public class Mensajes
-{
-	public static const string HOLA = "Hola Mundo";
-}
